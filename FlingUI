@@ -1,6 +1,6 @@
 -- open source ( the orginal source got deleted )
 -- made by cat scripter
-print("this was made by cat scripter")
+print("this script was made by cat scripter")
 --// Fling Gui V15.0
 local Players = game:GetService("Players")
 local RunService = game:GetService("RunService")
